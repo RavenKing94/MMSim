@@ -10,7 +10,7 @@ Features:
  - AC value
  - Pause-Resume, Steps, Passive Run
 
+-- Sorry for bad UI
+-- About 2 years old university project
+-- May contain bugs
 
-// Sorry for bad UI
-// About 2 years old university project
-// May contain bugs
