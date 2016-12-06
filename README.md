@@ -5,9 +5,10 @@ Morris Mano's 16bit Computer Assembly Simulator
 Features:
  - Full instructions support
  - Interupts
- - I/O
+ - I/O + flags
  - Variable & Memory View
  - AC value
+ - Pause-Resume, Steps, Passive Run
 
 
 // Sorry for bad UI
