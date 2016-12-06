@@ -8,7 +8,8 @@ Features:
  - I/O
  - Variable & Memory View
  - AC value
------------------------
-* Sorry for bad UI
-* About 2 years old university project
-* May contain bugs
+
+
+// Sorry for bad UI
+// About 2 years old university project
+// May contain bugs
